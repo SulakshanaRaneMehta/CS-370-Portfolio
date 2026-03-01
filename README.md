@@ -1,6 +1,6 @@
 # CS-370-Portfolio
 CS 370 Module Eight Journal
-Briefly explain the work that you did on this project
+Briefly explain the work that I did on this project
 In this project, I built a pirate intelligent agent for the Treasure Hunt Game. The goal was to train the agent to move through an 8x8 maze and reach the treasure successfully. Instead of using a fixed pathfinding method, I used deep reinforcement learning so the agent could learn through trial and error. This project helped me understand how reinforcement learning and neural networks can work together to solve decision-making problems.
 
 What code were you given? What code did you create yourself?
